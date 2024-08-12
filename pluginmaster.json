@@ -1,0 +1,30 @@
+[
+  {
+    "Author": "Kyrio",
+    "Name": "UwUClippy",
+    "InternalName": "DoubleWeaver",
+    "AssemblyVersion": "1.0.7.0",
+    "Description": "Noclippy but UwU",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/kyrioA/uwu",
+    "Tags": [
+      "uwuclippy",
+      "uwu clippy"
+    ],
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://github.com/kyrioA/uwu/blob/main/attachments/icon.png",
+    "Punchline": "Double weaving with high ping",
+    "AcceptsFeedback": true,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": "1720495527",
+    "DownloadLinkInstall": "https://github.com/kyrioA/uwu/raw/main/Plugins/UwUClippy/latest.zip",
+    "DownloadLinkTesting": "https://github.com/kyrioA/uwu/raw/main/Plugins/UwUClippy/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/kyrioA/uwu/raw/main/Plugins/UwUClippy/latest.zip"
+  }
+]
