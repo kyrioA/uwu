@@ -1,0 +1,20 @@
+{
+  "Author": "Kyrio",
+  "Name": "UwUClippy",
+  "InternalName": "DoubleWeaver",
+  "AssemblyVersion": "1.0.7.0",
+  "Description": "Noclippy but UwU",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/kyrioA/uwu",
+  "Tags": [
+    "uwuclippy"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://github.com/kyrioA/uwu/blob/main/attachments/icon.png",
+  "Punchline": "Noclippy but UwU",
+  "AcceptsFeedback": true
+}
